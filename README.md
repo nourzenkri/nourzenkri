@@ -5,7 +5,7 @@ Embedded Systems & Microelectronics engineering student at École des Mines de S
 - M.S. student in Microelectronics & Computer Systems Engineering at Mines Saint-Étienne
 - Currently deepening my skills in FPGA prototyping and embedded systems
 - President of AREM (Robotics and Electronics Association of Mines Saint-Étienne)
-- Open to an embedded systems / FPGA internship from April to August 2027 (16–20 weeks)
+- Open to an embedded systems / microelectronics internship starting from April 2027 (16–20 weeks)
 
 ---
 
